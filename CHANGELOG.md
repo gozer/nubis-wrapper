@@ -1,8 +1,18 @@
 # Change Log
 
+## [v1.0.0](https://github.com/nubisproject/nubis-wrapper/tree/v1.0.0) (2015-08-30)
+
+[Full Changelog](https://github.com/nubisproject/nubis-wrapper/compare/v0.9.0...v1.0.0)
+
+**Merged pull requests:**
+
+- DNS name change for jumphost [\#5](https://github.com/Nubisproject/nubis-wrapper/pull/5) ([limed](https://github.com/limed))
+
 ## [v0.9.0](https://github.com/nubisproject/nubis-wrapper/tree/v0.9.0) (2015-07-22)
 
 **Merged pull requests:**
+
+- Updating changelog for v0.9.0 release [\#4](https://github.com/Nubisproject/nubis-wrapper/pull/4) ([gozer](https://github.com/gozer))
 
 - Added verify script [\#3](https://github.com/Nubisproject/nubis-wrapper/pull/3) ([limed](https://github.com/limed))
 
